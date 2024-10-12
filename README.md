@@ -15,6 +15,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gursimranjeet-singh-b28633245/" ><img src="https://user-images.githubusercontent.com/102378038/225508579-4b6f08d4-5a3b-42a7-8074-ba892068d4ed.png" alt="aws" width="40" height="40"/> </a>
+<a href="gursimranjeet0786@gmail.com" ><img src="https://skillicons.dev/icons?i=gmail" alt="aws" width="40" height="40"/> </a>
 
 </p>
 
