@@ -26,5 +26,5 @@
  </p> 
 <br/>
 <br/>
-<img align="right" alt="Gursimranjeet Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gursimran-chouhan88&show_icons=true&theme=radical" />
+<!-- <img align="right" alt="Gursimranjeet Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gursimran-chouhan88&show_icons=true&theme=radical" /> -->
 <img align="left" alt="Gursimranjeet Singh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gursimran-chouhan88&layout=compact" />
